@@ -1,0 +1,6 @@
+framework module KCTBleSDK {
+  umbrella header "KCTBleSDK.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module MTKBleSDK {
+  umbrella header "MTKBleSDK.h"
+
+  export *
+  module * { export * }
+}

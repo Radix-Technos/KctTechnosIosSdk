@@ -1,0 +1,6 @@
+framework module MTKBleSDKOptional {
+  umbrella header "MTKBleSDKOptional.h"
+
+  export *
+  module * { export * }
+}

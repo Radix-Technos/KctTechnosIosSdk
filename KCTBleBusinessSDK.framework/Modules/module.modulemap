@@ -1,0 +1,6 @@
+framework module KCTBleBusinessSDK {
+  umbrella header "KCTBleBusinessSDK.h"
+
+  export *
+  module * { export * }
+}
